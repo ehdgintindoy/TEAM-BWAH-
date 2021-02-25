@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> JCI Cebu Sinulog | Contact Us</title>
+			<link rel ="icon" href = "icon.png">
+	
+  </head>
+	<body>
+	
+		<!-- Navigation Section -->
+			<nav>
+				<ul>
+					<li><a href = "home.html">home</a></li>
+					<li><a href = "who.html">who are we</a></li>
+					<li><a href = "support.html">support us</a></li>
+					<li><a href = "events.html">events</a></li>
+					<li><a href = "contact.html">contact us</a></li>
+				</ul>
+			</nav>
+			<br>
+			<br>
+			<h1><strong>CONTACT US</strong></h1>
+			<br>
+			
+		<!-- FORMS -->
+		
+		<a style = "position: relative; left: 0px; top: 0px;">
+			<form id="form"> 		     
+			<br>			
+			<input type="text" name="name" placeholder = "Please enter your full name" required> 
+			<input type="text" name="name" placeholder = "Please enter your email address" required> 
+			<input type="text" name="name" placeholder = "Please enter your Contact Number" required> 
+			<br>
+			<br>
+			Subject?
+			<br>
+			<select>
+				<option value="none"></option>
+				<option value="it">I want to Donate</option>	
+				<option value="st">I want to be a Volunteer</option>	 
+            </select>		 
+			</br>
+			<a href="Home.html">
+				<button class="click"><center>
+					<span>Submit Now!</span>
+				</button></center>
+			</a>
+			<br>
+			</form>
+			</div>
+			</a>
+
+		<!-- SOCMED -->
+		
+			<div class="cont">
+			<img src="fb.png" width="90px" height="80px"><a href="https://www.facebook.com/jcicsi/%22%3E"/></img>
+			<img src="ig.png"width="90px" height="80px"><a href="https://www.instagram.com/jcicebusinulog/%22%3E"/></img>
+			<img src="mail.png" width="90px" height="80px"><a href ="https://mail.google.com/mail/u/0/?tab=rm&ogbl#drafts?compose=new%22%3E"/></img>
+			</div>
+			
+		
+		<!-- MAPS -->
+		
+		<a style = "position: relative; left: 57%; top: -550px;">
+		<map name="cebu">
+		<area shape="rect" coords="216,53,345,147"
+		a href="https://www.google.com/maps/d/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1pw5YZeN1xyaYhP1879DFTfNXgAA&ll=10.3271291%2C123.89772529999998&z=17"/>
+		<img src="maps.jpg" usemap="#cebu"></img>
+		</map>
+		</a>
+			
+		<!-- Main Container Section -->
+		
+		<!--CONTACT INFORMATION -->
+		
+		<a style = "position: relative; left: 3%; top: -790px;">
+		<table border = "0">
+		<tr>
+		<td><img src="call.jpg" height="40px" width="50px"></img></td>
+		<td></td>
+		<td>[02] 123 4567</td>
+		</tr>
+		<tr>
+		<td><img src="emails.jpg" height="40px" width="50px"></img></td>
+		<td></td>
+		<td>ovfjavier@gmail.com</td>
+		</tr>
+		<tr>
+		<td><img src="pin.jpg" height="40px" width="50px"></img></td>
+		<td></td>
+		<td>Cebu City</td>
+		</tr>
+		<table>
+		</a>
+		
+		
+
+	</body>
+</html>
