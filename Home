@@ -1,0 +1,18 @@
+DOCTYPE html>
+<html>
+   <head>
+       <title>BWAH(Home)</title>
+	   
+	   <style type="text/css">
+	              body {
+				       background-image:url(bg.png);
+					   background-size: 125%;
+					   background-attachment: fixed;
+				  }
+				 					
+					.nav ul {
+						list-style:none;
+						background:none;
+						text-align:right;
+						padding:0;
+						margin:0;
