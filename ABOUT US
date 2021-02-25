@@ -19,16 +19,6 @@
 					}
 					.nav li {
 						display:inline-block;
-					}
-					.nav a {
-						text-decoration:none;
-						color:#F4592F;
-						width:100px;
-						display:block;
-						padding:25px 20px;
-						text-transform:lowercase;
-						font-family:arial;
-						font-size:15px;
 					
 					}
 					.nav2 {
