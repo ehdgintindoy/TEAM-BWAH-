@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>BWAH(About Us)</title>
+	   
+	   <style type="text/css">
+	              body {
+				       background-image:url(whitebg.png);
+					   background-size: 125%;
+					   background-attachment: fixed;
+				  }
+				 					
+					.nav ul {
+						list-style:none;
+						background:none;
+						text-align:right;
+						padding:0;
+						margin:0;
+					}
+					.nav li {
+						display:inline-block;
+					}
+					.nav a {
+						text-decoration:none;
+						color:#F4592F;
+						width:100px;
+						display:block;
+						padding:25px 20px;
+						text-transform:lowercase;
+						font-family:arial;
+						font-size:15px;
+					
+					}
+					.nav2 {
+						text-decoration:none;
+						color:#F4592F;
+						width:300px;
+						text-transform:lowercase;
+						font-family:arial;
+						font-size:50px;					
+						left:800px;
+
+				
+					
+	   </style>
+	   
+
+	</head>
