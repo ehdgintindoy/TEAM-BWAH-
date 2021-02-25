@@ -1,0 +1,36 @@
+<html>
+   <head>
+       <title> Support Us </title>
+	   
+	   <style type="text/css">
+	              body {
+				       background-image:url(white.png);
+					   background-size: 125%;
+					   background-attachment: fixed;
+				  }
+				 					
+					.nav ul {
+						list-style:none;
+						background:none;
+						text-align:right;
+						padding:0;
+						margin:0;
+					}
+					.nav li {
+						display:inline-block;
+					}
+					.nav a {
+						text-decoration:none;
+						color:#4289D8;
+						width:150px;
+						display:block;
+						padding:25px 20px;
+						text-transform:none;
+						font-family:arial;
+						font-size:25px;
+					}
+					
+	   </style>
+	   
+
+	</head>
