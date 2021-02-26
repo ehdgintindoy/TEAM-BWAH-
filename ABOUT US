@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
    <head>
-       <title>BWAH(About Us)</title>
-	   
+       <title>JCI Cebu Sinulog(About Us) </title>
+	   <link rel="icon" href="jcilogo.png" type="image/icon type">
 	   <style type="text/css">
 	              body {
 				       background-image:url(whitebg.png);
 					   background-size: 125%;
 					   background-attachment: fixed;
+					   overflow: hidden;
 				  }
 				 					
 					.nav ul {
@@ -16,19 +17,21 @@
 						text-align:right;
 						padding:0;
 						margin:0;
+						
 					}
 					.nav li {
 						display:inline-block;
 					
 					}
-					.nav2 {
+					.nav a {
 						text-decoration:none;
 						color:#F4592F;
-						width:300px;
+						width:150px;
+						display:block;
+						padding:25px 20px;
 						text-transform:lowercase;
 						font-family:arial;
-						font-size:50px;					
-						left:800px;
+						font-size:25px;
 
 				
 					
@@ -36,3 +39,54 @@
 	   
 
 	</head>
+	<body>
+	
+	  
+	  <div class="nav">
+	  
+	<ul>
+		<li><a style = "position:relative; left:20px;" href="home.html">home</a></li>
+		<li><a style = "position:relative; left:20px;" href="about.html">who we are</a></li>
+		<li><a style = "position:relative; left:10px;" href="supportus.html">support us</a></li>
+		<li><a style = "position:relative; right:20px;" href="event.html">events</a></li>
+		<li><a style = "position:relative; right:20px;" href="contact us.html">contact us</a></li>
+
+	</ul>
+	
+	 <div class="nav2">
+	  
+		<li><a style = "position:relative; color:#F4592F; text-transform:lowercase; width:300px; left:250px; font-size:50px; top:-85px; "><b> who we are </b></a></li>
+		<li><a style = "position:relative; color:#000; width:300px; text-transform:none; right:100px; text-align: justify; font-size:15px; top:65px; "> JCI  is a community of
+		young people who share the belief that to create lasting positive change, we must improve ourselves and the world around us. Through activities
+		ranging from local development to international initiatives, JCI members are empowered to improve their communities and themselves through
+		participation, leadership, and action. </a></li>
+		
+		<li><a style = "position:relative; color:#F4592F; text-transform:lowercase; width:300px; right:443px; font-size:50px; top:150px; "><b> our mission </b></a></li>
+		<li><a style = "position:relative; color:#000; width:300px; text-transform:none; right:790px; text-align: justify; font-size:15px; top:195px; "> To be the leading global
+		network of active young citizens.</a></li>
+		
+		<li><a style = "position:relative; color:#F4592F; text-transform:lowercase; width:300px; left:250px; font-size:50px; top:190px; "><b> our vision </b></a></li>
+		<li><a style = "position: relative; color:#000; width:300px; text-transform:none; right:105px; text-align: justify; font-size:15px; top: 250px;"> To provide development
+		opportunities that empower young people to create positive change. </a></li>
+		
+	<div class="video">
+		<a style = "position: relative; left: 700px; top:-330px;">
+			<video src= "JCI.mp4" width="660" height="480" controls></a></video>
+		
+	<div class="socmed">
+		<a style = "position:relative; left:850px; top:-300px;" href="https://www.facebook.com/jcicsi/" target="_blank">
+			<img src= "fb.png"  height="75" width="75"></a>
+		<a style = "position:relative; left:995px; top:-425px;" href="https://www.instagram.com/jcicebusinulog/" target="_blank">
+			<img src= "ig.png"  height="75" width="75"></a>
+		<a style = "position:relative; left:1150px; top:-560px;" href="contact us.html">
+			<img src= "email.png"  height="75" width="75"></a>
+	
+		
+	</div>
+	</div>
+	</div>
+	</div> 
+	
+	
+	</body>
+	</html>
