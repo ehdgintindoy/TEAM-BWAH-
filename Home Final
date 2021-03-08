@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>JCI Cebu Sinulog(Home)</title>
+	   <link rel="icon" href="jcilogo.png" type="image/icon type">
+	   
+	   <style type="text/css">
+	              body {
+				       background-image:url(bg.png);
+					   background-size: 125%;
+					   background-attachment: fixed;
+					   overflow: hidden;
+				  }
+				 					
+					.nav ul {
+						list-style:none;
+						background:none;
+						text-align:right;
+						padding:0;
+						margin:0;
+					}
+					.nav li {
+						display:inline-block;
+					}
+					.nav a {
+						text-decoration:none;
+						color:#FFF;
+						width:150px;
+						display:block;
+						padding:25px 20px;
+						text-transform:lowercase;
+						font-family:arial;
+						font-size:25px;
+					}
+					.btn {
+					  border: none;
+					  background-color: #F4592F;
+					  padding: 14px 28px;
+					  font-size: 20px;
+					  width:200px;
+					  border-radius:30px;
+					  cursor: pointer;
+					  display: inline-block;
+					}
+
+					.btn:hover {background: #eee;}
+
+					.join {color: white;}
+					
+					
+	   </style>
+	   
+
+	</head>
+	<body>
+	  
+	  <div class="nav">
+	  
+	<ul>
+		<li><a style = "position:relative; left:20px;" href="home.html">home</a></li>
+		<li><a style = "position:relative; left:20px;" href="about.html">who we are</a></li>
+		<li><a style = "position:relative; left:10px;" href="supportus.html">support us</a></li>
+		<li><a style = "position:relative; right:20px;" href="events.html">events</a></li>
+		<li><a style = "position:relative; right:20px;" href="contact.html">contact us</a></li>
+	</ul>
+	<div class="socmed">
+		<a style = "position:relative; left:1050px; top:550px;" href="https://www.facebook.com/jcicsi/" target="_blank">
+			<img src= "fb.png"  height="75" width="75"></a>
+		<a  style = "position:relative; left:1185px; top:425px;" href="https://www.instagram.com/jcicebusinulog/" target="_blank">
+			<img src= "ig.png"  height="75" width="75"></a>
+		<a style = "position:relative; left:1335px; top:290px" href="contactus.html">
+			<img src= "email.png"  height="75" width="75"></a>
+			
+			
+		<a style = "position: relative; left: 950px; top: -220px; font-family:'arial'; font-size:38px; color: white; width: 600px;">
+		<b> join us to make a difference! </b></a></li>
+		
+		<a style = "position: relative; left: 1100px; top: -250px; "href="supportus.html">
+		<button class="btn join" ><b>Support us </b> </button></a>		
+
+	</div>
+	</div>
+	</div>
+	 
+	</body>
+	</html>
